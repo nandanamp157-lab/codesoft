@@ -38,13 +38,13 @@ https://www.kaggle.com/competitions/titanic/data
 6. Evaluate the model using Accuracy, Classification Report, and Confusion Matrix
 
 ## Results
-- Accuracy: Approximately 82% (may vary slightly)
+- Accuracy: Approximately 82% 
 - Classification Report
 - Confusion Matrix
 - Feature Importance
 
 ## Files
-- Titanic_Survival_Prediction.ipynb
+- titanic_survival_prediction.ipynb
 - train.csv
 - README.md
 - requirements.txt
